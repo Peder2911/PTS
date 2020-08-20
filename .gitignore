@@ -1,0 +1,13 @@
+
+plots/*
+!plots/.gitkeep
+data/*
+!data/.gitkeep
+!data/manifest.md5sum
+cache/*
+!cache/.gitkeep
+*.py[cod]
+__pycache__/
+*.swp
+venv/
+.vim/
